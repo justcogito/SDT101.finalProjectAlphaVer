@@ -4,44 +4,55 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ace4fb3a-2a93-4666-92bb-64189cbf09fc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/articleNumbers" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/barcodes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/measurementUnits" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offers" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SDT101/project2/MainApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SDT101/project2/catalogs/Barcodes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SDT101/project2/catalogs/Constants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SDT101/project2/catalogs/MeasurementUnits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SDT101/project2/catalogs/Offers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SDT101/project2/classes/Barcode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SDT101/project2/classes/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SDT101/project2/classes/MeasurementUnit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SDT101/project2/classes/Offer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SDT101/project2/classes/Receipt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SDT101/project2/classes/ReceiptRefund.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SDT101/project2/classes/ReceiptSale.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SDT101/project2/classes/ReceiptTableOfContents.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SDT101/project2/classes/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SDT101/project2/classes/TableOfContentsRow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SDT101/project2/documents/Receipts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SDT101/project2/enumerations/OfferType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SDT101/project2/enumerations/PayType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SDT101/project2/enumerations/ReceiptType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SDT101/project2/registers/Prices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SDT101/project2/tables/receiptComposition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+    <list default="true" id="ace4fb3a-2a93-4666-92bb-64189cbf09fc" name="Changes" comment="Y">
+      <change afterPath="$PROJECT_DIR$/prices" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SDT101/finalProject/GlobalContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SDT101/finalProject/MainApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SDT101/finalProject/ReceiptListForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SDT101/finalProject/catalogs/forms/OffersFormList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SDT101/finalProject/catalogs/offers/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SDT101/finalProject/catalogs/offers/Offer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SDT101/finalProject/catalogs/offers/Offers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SDT101/finalProject/catalogs/offers/Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SDT101/finalProject/documents/Receipts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SDT101/finalProject/enumerations/Enumerations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SDT101/finalProject/enumerations/classes/Enumeration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SDT101/finalProject/enumerations/classes/MeasurementUnit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SDT101/finalProject/enumerations/classes/OfferType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SDT101/finalProject/enumerations/classes/PayType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SDT101/finalProject/enumerations/classes/ReceiptType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SDT101/finalProject/forms/EnumFormOfList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SDT101/finalProject/registers/Referable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SDT101/finalProject/registers/RegisterEntry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SDT101/finalProject/registers/barcodes/Barcode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SDT101/finalProject/registers/forms/RegisterFormOfList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SDT101/finalProject/registers/prices/Price.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SDT101/finalProject/registers/prices/RegisterPrices.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/offers" beforeDir="false" afterPath="$PROJECT_DIR$/offers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SDT101/project2/MainApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SDT101/project2/catalogs/Barcodes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SDT101/finalProject/registers/barcodes/RegisterBarcodes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SDT101/project2/catalogs/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SDT101/finalProject/catalogs/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SDT101/project2/catalogs/MeasurementUnits.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SDT101/project2/catalogs/Offers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SDT101/project2/classes/Barcode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SDT101/project2/classes/Item.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SDT101/project2/classes/MeasurementUnit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SDT101/project2/classes/Offer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SDT101/project2/classes/Receipt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SDT101/finalProject/documents/receipt/Receipt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SDT101/project2/classes/ReceiptRefund.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SDT101/finalProject/documents/receipt/ReceiptRefund.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SDT101/project2/classes/ReceiptSale.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SDT101/finalProject/documents/receipt/ReceiptSale.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SDT101/project2/classes/ReceiptTableOfContents.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SDT101/finalProject/classes/ReceiptTableOfContents.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SDT101/project2/classes/Service.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SDT101/project2/classes/TableOfContentsRow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SDT101/finalProject/classes/TableOfContentsRow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SDT101/project2/documents/Receipts.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SDT101/project2/enumerations/OfferType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SDT101/project2/enumerations/PayType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SDT101/project2/enumerations/ReceiptType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SDT101/project2/registers/Prices.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SDT101/project2/tables/receiptComposition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SDT101/finalProject/tables/receiptComposition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +63,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -74,9 +86,9 @@
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2f2TB30pyfDMwB3hEdpAJ6y2cVL" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -95,7 +107,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/AUK/SDT 101 Object-Oriented Programming and Data Structures SP24 TYTENKO/SDT101.project2",
+    "last_opened_file_path": "D:/AUK/SDT 101 Object-Oriented Programming and Data Structures SP24 TYTENKO/SDT101.finalProject",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -113,10 +125,25 @@
       <recent name="D:\AUK\SDT 101 Object-Oriented Programming and Data Structures SP24 TYTENKO\SDT101.project2" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="SDT101.finalProject.enumerations.classes" />
+      <recent name="SDT101.project2.registers.forms" />
       <recent name="SDT101.project2.enumerations" />
     </key>
   </component>
   <component name="RunManager">
+    <configuration name="MainApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SDT101.finalProject.MainApplication" />
+      <module name="project2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SDT101.finalProject.registers.barcodes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MainApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SDT101.project2.MainApplication" />
       <module name="project2" />
@@ -152,11 +179,43 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1712998035834</updated>
-      <workItem from="1712998036932" duration="55129000" />
+      <workItem from="1712998036932" duration="60516000" />
+      <workItem from="1713273150884" duration="632000" />
+      <workItem from="1713296541525" duration="1475000" />
+      <workItem from="1713369390298" duration="3345000" />
+      <workItem from="1713854493743" duration="5332000" />
+      <workItem from="1713867811488" duration="7791000" />
+      <workItem from="1714052263211" duration="455000" />
+      <workItem from="1714234589844" duration="3551000" />
+      <workItem from="1714301500372" duration="26849000" />
+      <workItem from="1714373856525" duration="18385000" />
     </task>
+    <task id="LOCAL-00001" summary="Y">
+      <option name="closed" value="true" />
+      <created>1713119680274</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713119680274</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Y" />
+    <option name="LAST_COMMIT_MESSAGE" value="Y" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.ConcurrentModificationException" package="java.util" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
